@@ -9,6 +9,10 @@ My name is Linh Nguyen. I am interested in the following topics: SQL, Python, De
 ![Linh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LinhNguyen-MyLi&show_icons=true&theme=transparent&hide=contribs,prs,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinhNguyen-MyLi)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/LinhNguyen-MyLi/Google-Analysis-SQL">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Google-Analysis-SQL&theme=radical" />
+</a>    
 
 <a href="https://github.com/LinhNguyen-MyLi/Super-Mario-Agent-PPO-Python">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
