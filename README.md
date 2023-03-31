@@ -8,6 +8,7 @@ My name is Linh Nguyen. I am interested in the following topics: SQL, Python, De
 
 ![Linh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LinhNguyen-MyLi&show_icons=true&theme=transparent&hide=contribs,prs,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinhNguyen-MyLi&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/LinhNguyen-MyLi/Google-Analysis-SQL">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
