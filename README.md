@@ -5,8 +5,7 @@ My name is Linh Nguyen. I am interested in the following topics: SQL, Python, De
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/linhnguyen0405194/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/LinhNguyen-MyLi) [![Youtube](https://github.com/LinhNguyen-MyLi/LinhNguyen-MyLi/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UCAexW4C-nXfHcM5TsRky-bw)
 
 
-[![Linh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LinhNguyen-MyLi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Linh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=LinhNguyen-MyLi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinhNguyen-MyLi&show_icons=true&bg_color=00000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinhNguyen-MyLi&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/LinhNguyen-MyLi/Google-Analysis-SQL">
