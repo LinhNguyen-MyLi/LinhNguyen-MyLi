@@ -25,7 +25,7 @@ My name is Linh Nguyen. I am interested in the following topics: SQL, Python, De
 
 <a href="https://github.com/LinhNguyen-MyLi/User-churn-Analysis-PowerBI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=User-churn-Analysis-PowerBI&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=User-churn-Analysis-PowerBI&theme=nightowl" />
 </a>   
 
 <a href="https://github.com/LinhNguyen-MyLi/Collection-Analysis-PowerBi">
