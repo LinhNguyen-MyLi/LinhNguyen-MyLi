@@ -23,15 +23,20 @@ My name is Linh Nguyen. I am interested in the following topics: SQL, Python, De
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=RFM-Analysis-Python&theme=maroongold" />
 </a>
 
-<a href="https://github.com/LinhNguyen-MyLi/User-churn-Analysis-PowerBI">
+<a href="https://github.com/LinhNguyen-MyLi/Solutions-for-50-days-with-Python-book">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=User-churn-Analysis-PowerBI&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Solutions-for-50-days-with-Python-book&theme=chartreuse-dark" />
 </a>   
 
 <a href="https://github.com/LinhNguyen-MyLi/Collection-Analysis-PowerBi">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Collection-Analysis-PowerBi&theme=midnight-purple" />
 </a>
+
+<a href="https://github.com/LinhNguyen-MyLi/User-churn-Analysis-PowerBI">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=User-churn-Analysis-PowerBI&theme=nightowl" />
+</a>   
 
 <a href="https://github.com/LinhNguyen-MyLi/Python-games">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
