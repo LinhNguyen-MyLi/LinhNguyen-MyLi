@@ -13,6 +13,11 @@ My name is Linh Nguyen. I am interested in the following topics: SQL, Python, De
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Google-Analysis-SQL&theme=jolly" />
 </a>    
 
+<a href="https://github.com/LinhNguyen-MyLi/Predict-party-affiliation-Democrat-or-Republican">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Predict-party-affiliation-Democrat-or-Republican&theme=yeblu" />
+</a>  
+
 <a href="https://github.com/LinhNguyen-MyLi/Super-Mario-Agent-PPO-Python">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Super-Mario-Agent-PPO-Python&theme=chartreuse-dark" />
