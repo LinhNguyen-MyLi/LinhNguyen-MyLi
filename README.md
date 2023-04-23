@@ -23,6 +23,11 @@ My name is Linh Nguyen. I am interested in the following topics: SQL, Python, De
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Super-Mario-Agent-PPO-Python&theme=chartreuse-dark" />
 </a>
 
+<a href="https://github.com/LinhNguyen-MyLi/Predict-UEFA-quarter-final">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Predict-UEFA-quarter-final&theme=synthwave" />
+</a>
+
 <a href="https://github.com/LinhNguyen-MyLi/RFM-Analysis-Python">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=RFM-Analysis-Python&theme=maroongold" />
