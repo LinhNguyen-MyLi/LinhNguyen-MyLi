@@ -9,19 +9,19 @@ My name is Linh Nguyen. I am interested in the following topics: SQL, Python, De
 
 <a href="https://github.com/LinhNguyen-MyLi/Google-Analysis-SQL">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Google-Analysis-SQL&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Google-Analysis-SQL&theme=jolly" />
 </a>    
 <a href="https://github.com/LinhNguyen-MyLi/Predict-Democrat-or-Republican">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Predict-Democrat-or-Republican&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Predict-Democrat-or-Republican&theme=chartreuse-dark" />
 </a>  
 <a href="https://github.com/LinhNguyen-MyLi/Predict-UEFA-quarter-final">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align ="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Predict-UEFA-quarter-final&theme=merko" />
+  <img align ="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Predict-UEFA-quarter-final&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/LinhNguyen-MyLi/Super-Mario-Agent-PPO-Python">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Super-Mario-Agent-PPO-Python&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Super-Mario-Agent-PPO-Python&theme=synthwave"/>
 </a> 
 <a href="https://github.com/LinhNguyen-MyLi/Solutions-for-50-days-with-Python-book">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -29,22 +29,22 @@ My name is Linh Nguyen. I am interested in the following topics: SQL, Python, De
 </a>   
 <a href="https://github.com/LinhNguyen-MyLi/Collection-Analysis-PowerBi">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Collection-Analysis-PowerBi&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Collection-Analysis-PowerBi&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/LinhNguyen-MyLi/Python-games">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Python-games&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Python-games&theme=vision-friendly-dark" />
 </a>      
 <a href="https://github.com/LinhNguyen-MyLi/RFM-Analysis-Python">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=RFM-Analysis-Python&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=RFM-Analysis-Python&theme=synthwave" />
 </a>
 <a href="https://github.com/LinhNguyen-MyLi/User-churn-Analysis-PowerBI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=User-churn-Analysis-PowerBI&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=User-churn-Analysis-PowerBI&theme=jolly" />
 </a>  
 <a href="https://github.com/LinhNguyen-MyLi/DataLemur-solutions-practice">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=DataLemur-solutions-practice&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=DataLemur-solutions-practice&theme=midnight-purple" />
 </a>
    
