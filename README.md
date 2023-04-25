@@ -47,4 +47,7 @@ My name is Linh Nguyen. I am interested in the following topics: SQL, Python, De
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=DataLemur-solutions-practice&theme=midnight-purple" />
 </a>
-   
+<a href="https://github.com/LinhNguyen-MyLi/Building-portfolio-in-Excel">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Building-portfolio-in-Excel&theme=vision-friendly-dark" />
+</a>  
