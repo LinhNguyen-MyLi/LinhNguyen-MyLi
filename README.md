@@ -1,5 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Linh Nguyen. I am interested in the following topics: SQL, Python, Design Thinking (method of Problem Solving) in PowerBi .<br>
+I love making sophisticated things become simple and easy to understand.
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/linhnguyen0405194/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/LinhNguyen-MyLi) [![Youtube](https://github.com/LinhNguyen-MyLi/LinhNguyen-MyLi/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UCAexW4C-nXfHcM5TsRky-bw)
