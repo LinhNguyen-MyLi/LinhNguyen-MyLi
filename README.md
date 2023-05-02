@@ -60,3 +60,7 @@ I love making sophisticated things become as simple as it can and easy to unders
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Discovery-BCG-dataset-R-language&theme=jolly" />
 </a>    
+<a href="https://github.com/LinhNguyen-MyLi/Plot-RGB-color-R-language">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align ="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Plot-RGB-color-R-language&theme=vision-friendly-dark" />
+</a>
