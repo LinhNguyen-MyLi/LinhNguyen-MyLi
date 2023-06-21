@@ -5,7 +5,6 @@ I love making sophisticated things become as simple as it can and easy to unders
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/linhnguyen0405194/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/LinhNguyen-MyLi) [![Youtube](https://github.com/LinhNguyen-MyLi/LinhNguyen-MyLi/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UCAexW4C-nXfHcM5TsRky-bw)
 
-![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinhNguyen-MyLi&hide=stars,prs&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinhNguyen-MyLi&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/LinhNguyen-MyLi/Google-Analysis-SQL">
