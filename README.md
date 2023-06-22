@@ -71,9 +71,9 @@ I love making sophisticated things become as simple as it can and easy to unders
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align ="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Financial-forecast-in-Python&theme=jolly" />
 </a>
-<a href="https://github.com/LinhNguyen-MyLi/Cholesky-and-Monte-Carlo-simulation-in-forecast-VaR-for-portfolio-in-excel">
+<a href="https://github.com/LinhNguyen-MyLi/Cholesky-Monte-Carlo-forecast-VaR">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align ="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Cholesky-and-Monte-Carlo-simulation-in-forecast-VaR-for-portfolio-in-excel&theme=jolly" />
+  <img align ="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Cholesky-Monte-Carlo-forecast-VaR&theme=jolly" />
 </a>
 <a href="https://github.com/LinhNguyen-MyLi/GARCH-model-to-forecast-in-excel">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
