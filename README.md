@@ -63,9 +63,9 @@ I love making sophisticated things become as simple as it can and easy to unders
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align ="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Plot-RGB-color-R-language&theme=vision-friendly-dark" />
 </a>
-<a href="https://github.com/LinhNguyen-MyLi/Financial-Modeling-">
+<a href="https://github.com/LinhNguyen-MyLi/Financial-Modeling-in-Excel">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align ="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Financial-Modeling-&theme=vision-friendly-dark" />
+  <img align ="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Financial-Modeling-in-Excel&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/LinhNguyen-MyLi/Financial-forecast-in-Python">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -78,8 +78,4 @@ I love making sophisticated things become as simple as it can and easy to unders
 <a href="https://github.com/LinhNguyen-MyLi/GARCH-model-to-forecast-in-excel">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align ="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=GARCH-model-to-forecast-in-excel&theme=vision-friendly-dark" />
-</a>
-<a href="https://github.com/LinhNguyen-MyLi/Financial-forecast-in-Python">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align ="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Financial-forecast-in-Python&theme=vision-friendly-dark" />
 </a>
