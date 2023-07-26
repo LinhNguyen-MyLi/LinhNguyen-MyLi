@@ -75,4 +75,7 @@ I love making sophisticated things become as simple as it can and easy to unders
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align ="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=GARCH-model-to-forecast-in-excel&theme=jolly" />
 </a>
-
+<a href="https://github.com/LinhNguyen-MyLi/Assignments-in-IBM-certificate">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align ="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Assignments-in-IBM-certificate&theme=vision-friendly-dark" />
+</a>
