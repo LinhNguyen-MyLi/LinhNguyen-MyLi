@@ -19,9 +19,9 @@ I love making sophisticated things become as simple as it can and easy to unders
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align ="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Predict-UEFA-quarter-final&theme=vision-friendly-dark" />
 </a>
-<a href="https://github.com/LinhNguyen-MyLi/Super-Mario-Agent-PPO-Python">
+<a href="https://github.com/LinhNguyen-MyLi/Global-death-causes">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Super-Mario-Agent-PPO-Python&theme=synthwave"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Global-death-causes&theme=synthwave"/>
 </a> 
 <a href="https://github.com/LinhNguyen-MyLi/Solutions-for-50-days-with-Python-book">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
