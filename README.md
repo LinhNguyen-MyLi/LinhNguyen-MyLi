@@ -59,9 +59,9 @@ I love making sophisticated things become as simple as it can and easy to unders
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Discovery-BCG-dataset-R-language&theme=jolly" />
 </a>    
-<a href="https://github.com/LinhNguyen-MyLi/Plot-RGB-color-R-language">
+<a href="https://github.com/LinhNguyen-MyLi/Plot-RGB-color-and-Solve-maze">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align ="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Plot-RGB-color-R-language&theme=vision-friendly-dark" />
+  <img align ="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Plot-RGB-color-and-Solve-maze&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/LinhNguyen-MyLi/Financial-Modeling-in-Excel">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
