@@ -87,3 +87,8 @@ I love making sophisticated things become as simple as it can and easy to unders
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align ="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Analyzing-wildfire-activities-in-Australia&theme=jolly" />
 </a>
+<a href="https://github.com/LinhNguyen-MyLi/Heart-disease-and-potential-risk-factors">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align ="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LinhNguyen-MyLi&repo=Heart-disease-and-potential-risk-factors&theme=jolly" />
+</a>
+
