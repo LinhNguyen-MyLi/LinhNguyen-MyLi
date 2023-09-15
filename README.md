@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Linh Nguyen. I am interested in the following topics: Finance & Accounting, Microsoft Excel, R, SQL, Python, and Design Thinking (method of Problem Solving) in PowerBi .<br>
+My name is Linh Nguyen. I am interested in the following topics: Finance and Accounting, Microsoft Excel, R, SQL, Python, and Design Thinking (method of Problem Solving) in PowerBi .<br>
 I love making sophisticated things become as simple as it can and easy to understand :four_leaf_clover::four_leaf_clover::four_leaf_clover:
 ## 📫 How to reach me: 
 
