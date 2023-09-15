@@ -1,9 +1,10 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Linh Nguyen. I am interested in the following topics: Corporate finance, SQL, Python, Design Thinking (method of Problem Solving) in PowerBi .<br>
+My name is Linh Nguyen. I am interested in the following topics: Finance & Accounting, Microsoft Excel, R, SQL, Python, and Design Thinking (method of Problem Solving) in PowerBi .<br>
 I love making sophisticated things become as simple as it can and easy to understand :four_leaf_clover::four_leaf_clover::four_leaf_clover:
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/linhnguyen0405194/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/LinhNguyen-MyLi) [![Youtube](https://github.com/LinhNguyen-MyLi/LinhNguyen-MyLi/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UCAexW4C-nXfHcM5TsRky-bw)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinhNguyen-MyLi&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://github.com/LinhNguyen-MyLi/Google-Analysis-SQL">
